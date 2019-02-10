@@ -1,0 +1,12 @@
+{
+  "name": "yarn-9",
+  "version": "1.0.0",
+  "description": "Creating a package.json file with yarn and adding jquery as dependency",
+  "main": "index.js",
+  "repository": "https://github.com/Furrecus1/Yarn.git",
+  "author": "Martin Furre Johnsen",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
